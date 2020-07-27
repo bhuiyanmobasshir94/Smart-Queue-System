@@ -7,7 +7,6 @@ The following pages will walk you through the steps of the project. At a high le
 - Compare the performance to see which hardware performed best
 - Revise your proposal based on the test results
 
-## Part 1: Hardware Proposal
 ### The Scenarios
 We've provided three different scenarios that depict real-world problems based on different sectors where edge devices are typically deployed.
 
